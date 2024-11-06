@@ -32,7 +32,7 @@ DevScope 是一款基于 GitHub 开源数据的开发者评估平台，旨在对
 
 ## 仓库
 
-整个项目的仓库分为两个部分：
+整个项目的仓库分为两个部分，详细文档请参考仓库中的README.md：
 
 [DevScope](https://github.com/DevScopeTeam/DevScope): 项目的前端部分，使用 Vue3.js + TypeScript 开发。
 
