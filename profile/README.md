@@ -10,7 +10,7 @@ DevScope 是一款基于 GitHub 开源数据的开发者评估平台，旨在对
 
 ## 立即体验
 
-[https://devscope.searach.ren](https://devscope.searach.ren)
+[https://devscope.search.ren](https://devscope.search.ren)
 
 ## 视频演示
 
