@@ -36,7 +36,7 @@ DevScope 是一款基于 GitHub 开源数据的开发者评估平台，旨在对
 
 [DevScope](https://github.com/DevScopeTeam/DevScope): 项目的前端部分，使用 Vue3.js + TypeScript 开发。
 
-[DevScope-Middleware](https://github.com/DevScopeTeam/DevScope-Middleware): 项目的后端部分，使用 Golang + Go Fiber 开发，承载DevScope所有服务接口的实现，同时与Github的API进行对接。
+[DevScope-Middleware](https://github.com/DevScopeTeam/DevScope-Middleware): 项目的后端部分，使用 Golang + Go Fiber 开发，承载DevScope所有服务接口的实现，同时与Github和通义千问的API进行对接。
 
 ## 团队分工
 
