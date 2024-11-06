@@ -28,7 +28,7 @@ DevScope 是一款基于 GitHub 开源数据的开发者评估平台，旨在对
 
 ## 架构图
 
-![架构图](https://bucket.devscope.doyi.online/imgs/platform.png)
+![架构图](./platform.png)
 
 ## 仓库
 
