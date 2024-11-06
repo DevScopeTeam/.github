@@ -22,13 +22,13 @@ DevScope 是一款基于 GitHub 开源数据的开发者评估平台，旨在对
 
 - 前端：我们使用 Vue3.js + TypeScript 进行前端开发，以构建出色的用户界面和用户体验。
 
-- 后端：我们选择了 Golang 作为后端开发语言，结合 Fiber Web Framework 来构建强大而高效的后端服务，以支持平台的数据管理。同时，整体采用云原生微服务架构，提高系统的可维护性，提供了快速响应和可扩展性，满足用户的需求并确保平台的可靠性。
+- 中间件：我们选择了 Golang 作为后端开发语言，结合 Fiber Web Framework 来构建强大而高效的后端服务，以支持平台的数据管理。同时，整体采用云原生微服务架构，提高系统的可维护性，提供了快速响应和可扩展性，满足用户的需求并确保平台的可靠性。
 
 - 数据库：我们使用 MySQL 作为主要的数据库，以存储用户的数据。
 
 ## 架构图
 
-![架构图](https://bucket.devscope.doyi.online/imgs/platform.png)
+![架构图]([https://bucket.devscope.doyi.online/imgs/platform.png](https://devscope.search.ren/imgs/platform.png))
 
 ## 仓库
 
