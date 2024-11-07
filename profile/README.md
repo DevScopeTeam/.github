@@ -14,7 +14,7 @@ DevScope 是一款基于 GitHub 开源数据的开发者评估平台，旨在对
 
 ## 视频演示
 
-[->点击这里<-](https://www.bilibili.com/video/)
+[->点击这里<-](https://www.bilibili.com/video/BV1ChDUYCEZr/)
 
 ## 技术栈
 
